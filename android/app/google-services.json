@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "437162164220",
+    "project_id": "charityapp-22b02",
+    "storage_bucket": "charityapp-22b02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437162164220:android:294b7a95c0914fbb9e7c79",
+        "android_client_info": {
+          "package_name": "com.example.charity_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQJQ1hFoMX2Zt_wjBteQu7O65asBdou0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
